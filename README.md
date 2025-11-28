@@ -1,6 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my GitHub profile! </br> I'm <b>Mohamed Emara</b>, a developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197618.png" width="13"/> <b>Egypt</b>.  
+<p>Welcome to my GitHub profile! </br> I'm <b>MOHAMED EMARA</b>, a developer from 
+<img src="https://cdn-icons-png.flaticon.com/512/197/197618.png" width="15"/> <b>Egypt</b>.  
 I work mainly with <b>C++</b>, <b>Java</b>, and <b>Python</b>.</p>
 
 ---
@@ -70,4 +71,4 @@ I work mainly with <b>C++</b>, <b>Java</b>, and <b>Python</b>.</p>
 
 ---
 
-<p align="center">Made with ❤️ by <b>Mohamed Amara</b></p>
+<p align="center">Made with ❤️ by <b>MOHAMED EMARA</b></p>
